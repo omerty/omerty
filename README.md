@@ -3,7 +3,7 @@
 ### Hello World 👋 It's [Omer!](https://personalwebsite-iqv9.onrender.com)
 
 <a href="https://www.linkedin.com/in/omer-mohiuddin">
-<img align="left" alt="Omer LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: brightness(0) invert(1);" />
+<img align="left" alt="Omer LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://collegium.tech">
 Collegium.tech
