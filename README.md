@@ -45,10 +45,15 @@ Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybers
 
 ## Skills
 -💻 Programming: Python, Java, C, C++, JavaScript
+
 -🌐 Web Technologies: React, Node.js, HTML, CSS
+
 -🔗 Blockchain Development
+
 -🗄️ Databases: MySQL, PostgreSQL, MongoDB
+
 -🔧 Tools: Git, Docker, Jenkins
+
 -🔐 Cybersecurity: Network Security, Cryptography, Ethical Hacking
 
 ## Fun Facts
