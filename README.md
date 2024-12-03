@@ -14,8 +14,6 @@ Collegium.tech
 
 Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybersecurity enthusiast. I'm passionate about AI advancements and love solving Rubik's Cubes in my free time.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 ## About Me
 
 - 🔭 Previously interned as a Software Developer at Ericsson
