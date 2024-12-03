@@ -1,6 +1,5 @@
-# Mohammed Omer
 
-### Hello World 👋 It's [Omer!](https://personalwebsite-iqv9.onrender.com)
+# Hello World 👋 It's [Omer!](https://personalwebsite-iqv9.onrender.com)
 
 <a href="https://www.linkedin.com/in/omer-mohiuddin">
 <img align="left" alt="Omer LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
