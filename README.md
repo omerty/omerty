@@ -43,7 +43,7 @@ Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybers
 - 📫 How to reach me: [Your preferred contact method]
 - 📝 [Portfolio](https://personalwebsite-iqv9.onrender.com)
 
-##Skills
+## Skills
 -💻 Programming: Python, Java, C, C++, JavaScript
 -🌐 Web Technologies: React, Node.js, HTML, CSS
 -🔗 Blockchain Development
