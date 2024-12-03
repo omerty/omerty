@@ -35,9 +35,9 @@ Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybers
 
 ## Projects
 
-- 🌟 [Project 1]: Brief description
-- 🌟 [Project 2]: Brief description
-- 🌟 [Project 3]: Brief description
+- 🌟 [Sports-Betting Software]: Made a Simple Sports-Betting Platform
+- 🌟 [Network-Packet Capture Tool]: Made a Python script to capture the Packets in the network 
+- 🌟 [AWS Inventory Managment Project]: Made an Inventory Managment Project and Deployed it on AWS using EC2 Instances, S3 Buckets, Etc. 
 
 ## Get in Touch
 
@@ -45,21 +45,15 @@ Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybers
 - 📫 How to reach me: [Your preferred contact method]
 - 📝 [Portfolio](https://personalwebsite-iqv9.onrender.com)
 
-## Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-## GitHub Stats
-
-Your GitHub stats
+##Skills
+-💻 Programming: Python, Java, C, C++, JavaScript
+-🌐 Web Technologies: React, Node.js, HTML, CSS
+-🔗 Blockchain Development
+-🗄️ Databases: MySQL, PostgreSQL, MongoDB
+-🔧 Tools: Git, Docker, Jenkins
+-🔐 Cybersecurity: Network Security, Cryptography, Ethical Hacking
 
 ## Fun Facts
-
-- 🎵 I love listening to [your favorite music genre] while coding
-- 🌱 I'm currently learning [a new skill or technology]
-- 🌍 I dream of [your aspiration or goal]
+- 🌱 I'm currently improving my skills in Blockchain
 
 Thanks for visiting my profile! Let's connect and build something amazing together.
