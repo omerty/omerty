@@ -33,7 +33,7 @@ Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybers
 ## Projects
 
 - 🌟 [Sports-Betting Software]: Made a Simple Sports-Betting Platform
-- 🌟 [Network-Packet Capture Tool]: Made a Python script to capture the Packets in the network 
+- 🌟 [Nano-GPT]: Made a Simple GPT from scratch that makes Shakespeare Scripts
 - 🌟 [AWS Inventory Managment Project]: Made an Inventory Managment Project and Deployed it on AWS using EC2 Instances, S3 Buckets, Etc. 
 
 ## Get in Touch
