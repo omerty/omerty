@@ -39,7 +39,7 @@ Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybers
 ## Get in Touch
 
 - 💬 Ask me about anything, I'd love to help!
-- 📫 How to reach me: [Your preferred contact method]
+- 📫 How to reach me: 613-314-9939
 - 📝 [Portfolio](https://personalwebsite-iqv9.onrender.com)
 
 ## Skills
