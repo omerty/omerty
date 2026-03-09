@@ -1,61 +1,73 @@
-
-# Hello World 👋 It's [Omer!](https://personalwebsite-iqv9.onrender.com)
+# Hello World 👋 I'm [Omer Mohiuddin](https://fastfol.io/omer)
 
 <a href="https://www.linkedin.com/in/omer-mohiuddin">
-<img align="left" alt="Omer LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://collegium.tech">
-Collegium.tech
+  <img align="left" alt="Omer LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Omer Mohiuddin🙌, a software developer, back-end Developer, and cybersecurity enthusiast. I'm passionate about AI advancements and love solving Rubik's Cubes in my free time.
+Software Engineer with production experience building AI systems, full-stack platforms, and developer tooling. Currently finishing my B.CS at Carleton University (May 2026) and working full-time at CompareABill AI.
 
-## About Me
+---
 
-- 🔭 Previously interned as a Software Developer at Ericsson
-- 🚀 Currently in the process of launching my own startup
-- 💡 Always eager to learn and explore new technologies
-- 🧠 Fascinated by AI and its potential to transform industries
-- 🔒 Passionate about cybersecurity and protecting digital assets
-- 🧩 Rubik's Cube enthusiast - ask me for solving tips!
+## 🧑‍💻 About Me
 
-## Skills
+- 🤖 Building multi-agent AI orchestration systems with OpenAI, Anthropic, and Gemini at **CompareABill AI**
+- 🏆 **1st place** at CU Hackathon (50 teams) — RAG-based mental health chatbot using CLIP + LLMs
+- 🎓 B.CS @ Carleton University, graduating May 2026
+- 🧠 Passionate about AI/ML systems, distributed architecture, and developer experience
+- 📫 omermohiuddin21@gmail.com · 613-314-9939
 
-- 💻 Programming: Python, Java, C++
-- 🗄️ Databases: MySQL, PostgreSQL, MongoDB
-- 🔧 Tools: Git, Docker, Jenkins
-- 🌐 Web Technologies: HTML, CSS, JavaScript
-- 🔐 Cybersecurity: Network Security, Cryptography, Ethical Hacking
+---
 
-## Projects
+## 💼 Experience
 
-- 🌟 [Sports-Betting Software]: Made a Simple Sports-Betting Platform
-- 🌟 [Nano-GPT]: Made a Simple GPT from scratch that makes Shakespeare Scripts
-- 🌟 [AWS Inventory Managment Project]: Made an Inventory Managment Project and Deployed it on AWS using EC2 Instances, S3 Buckets, Etc. 
+**Software Engineer — CompareABill AI** *(Jan 2025 – Present)*
+- Multi-agent AI orchestration layer coordinating 5+ LLMs with dynamic routing — 99.2% extraction accuracy across 10K+ monthly invoices
+- Fine-tuned BERT classifier for vendor ID, cutting $2,400/month in API costs and boosting accuracy from 94% → 99%
+- Architected hierarchical state machine with circuit breakers and graceful degradation — reduced production failures by 35%
+- Full-stack invoice platform (React, Node.js, PostgreSQL, Python) supporting 50+ vendor schemas
+- Event-driven pipeline (Redis/RabbitMQ) achieving sub-2s p99 latency
 
-## Get in Touch
+**Software Engineer Intern — TekSmarx** *(May 2024 – Sep 2024)*
+- Automated 200+ REST API test cases, cutting manual QA time by 65%
+- Playwright/TypeScript E2E framework covering 12 critical user flows — reduced release validation from 4 hours to 25 minutes
+- Integrated test suites into TeamCity CI/CD, reducing post-deploy bugs by 30%
 
-- 💬 Ask me about anything, I'd love to help!
-- 📫 How to reach me: 613-314-9939
-- 📝 [Portfolio](https://personalwebsite-iqv9.onrender.com)
+**Software Engineer Intern — Ericsson** *(May 2023 – May 2024)*
+- Migrated 8 legacy services to Docker/K8s — 20% cost reduction, 99.5% uptime
+- Built multi-threaded Julia data pipeline achieving 4x speedup, processing 50 GB/hour
+- Designed Azure DevOps CI/CD for 6 microservices — 30% faster deployments with automated rollback
 
-## Skills
--💻 Programming: Python, Java, C, C++, JavaScript
+---
 
--🌐 Web Technologies: React, Node.js, HTML, CSS
+## 🚀 Projects
 
--🔗 Blockchain Development
+**[Echo — Hackathon Winner](https://devpost.com)** · React Native, Python, CLIP, RAG, Groq API
+- RAG-based mental health chatbot using CLIP vision embeddings + LLM reasoning for personality inference
+- Hybrid inference pipeline cutting API costs 70–80% while maintaining conversational quality
+- Friend-matching via cosine similarity on user embedding vectors with a privacy-first, zero-retention image pipeline
 
--🗄️ Databases: MySQL, PostgreSQL, MongoDB
+**[Multi-Modal Fake News Detector](https://github.com/omerty/Multi-Modal-Fake-News-Detector-)** · Python, PyTorch, BERT, HuggingFace
+- Built a deep learning system that jointly fuses BERT text features (768-d) with CNN image features (512-d) to detect fake news — capturing cross-modal manipulation signals single-modality models miss
+- Achieved 88.4% accuracy, 0.873 F1 on FakeNewsNet (PolitiFact) test split with a 3-layer fusion classifier + dropout and BatchNorm
+- Designed modular architecture (text encoder, image encoder, fusion model) with train/val checkpointing, LR scheduling, and batch inference support
 
--🔧 Tools: Git, Docker, Jenkins
+---
 
--🔐 Cybersecurity: Network Security, Cryptography, Ethical Hacking
+## 🛠️ Tech Stack
 
-## Fun Facts
-- 🌱 I'm currently improving my skills in Blockchain
+**Languages:** Java · Python · C/C++ · JavaScript · TypeScript · SQL · Rust · Golang · HTML/CSS
 
-Thanks for visiting my profile! Let's connect and build something amazing together.
+**Frameworks:** React · Next.js · Node.js · Flask · Angular · TailwindCSS · ShadCN · Material-UI · JUnit
+
+**Libraries:** pandas · NumPy · Matplotlib · MongoDB · SQLite · Prisma · Drizzle · Solace
+
+**Tools:** Git · Docker · AWS · Terraform · Azure DevOps · Jest
+
+**Domains:** Full-Stack · AI/ML · DevOps · Cloud · Data Engineering · Mobile · Cybersecurity
+
+---
+
+*Let's build something.* → [Portfolio](https://fastfol.io/omer)
