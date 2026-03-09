@@ -54,6 +54,13 @@ Software Engineer with production experience building AI systems, full-stack pla
 - Achieved 88.4% accuracy, 0.873 F1 on FakeNewsNet (PolitiFact) test split with a 3-layer fusion classifier + dropout and BatchNorm
 - Designed modular architecture (text encoder, image encoder, fusion model) with train/val checkpointing, LR scheduling, and batch inference support
 
+**[LLM Eval Framework ](https://github.com/omerty/LLM-Evaluator)** ·  Python, Streamlit, Groq API, Mistral API
+- Lightweight benchmarking framework for comparing LLM outputs across latency, quality, and cost — side by side, in minutes
+- Parallel execution engine using ThreadPoolExecutor with 4-dimensional scoring: word overlap, instruction following, JSON validity, and length quality
+- Real benchmark results: Groq (Llama 3.3 70B) vs Mistral Small across 50 prompt/model pairs — Groq clocked 2.4× lower latency (806 ms vs 1902 ms) with a higher composite score (0.854 vs 0.838)
+- Streamlit dashboard with run, results, and per-prompt inspector tabs; full CLI support for CI pipelines; JSON + CSV export per run
+
+
 ---
 
 ## 🛠️ Tech Stack
