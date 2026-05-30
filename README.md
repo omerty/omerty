@@ -77,4 +77,4 @@ Software Engineer with production experience building AI systems, full-stack pla
 
 ---
 
-*Let's build something.* → [Portfolio](https://github.com/omerty/omerty.github.io)
+*Let's build something.* → [Portfolio](omerty.github.io)
